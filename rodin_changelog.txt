@@ -1,0 +1,5 @@
+Axion 2.9 Incremental Test Update (2026-10-19):
+- Fixed display color freeze when switching between color modes / OEM Control in Rodin Essential
+- Moved Xiaomi Parts entry to Settings > System (order -50)
+- Cleaned up Xiaomi Parts: removed Display Colors, Screen Resolution, CPU Control, and Touch Boost
+- Retained Thermal Management, Battery Health, Memory Monitor, and CIT Diagnostics
